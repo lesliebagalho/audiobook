@@ -1,0 +1,19 @@
+gTTS (Google Text-to-Speech) is a Python library that allows you to convert text to audio using Google's speech synthesis service. It is a simple and efficient tool for generating audio files in different languages ​​from text.
+
+Main features:
+
+Text-to-speech conversion:
+
+Transforms any text into spoken audio, with support for multiple languages ​​and accents.
+
+Supported languages:
+
+Supports multiple languages ​​such as Portuguese (pt), English (en), Spanish (es), among others.
+MP3 output:
+
+Generates audio files in MP3 format, which can be played on any compatible device.
+Easy to use:
+
+With just a few lines of code, you can create and save audio files.
+How it works:
+The library connects to the Google Translate API to access the text-to-speech conversion service. It then generates the audio in the specified language and accent.
