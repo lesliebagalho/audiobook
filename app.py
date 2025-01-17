@@ -25,6 +25,6 @@ output_file = "audiobook_en.mp3"
 create_audiobook(text_file_en, output_file, lang='en')
 
 
-
+# Caso queira executar o áudio logo quando termina a leitura dos códigos, basta tirar o comentário abaixo e adaptar para sua necessidade
 # os.system(f"start {output_file}")
 
