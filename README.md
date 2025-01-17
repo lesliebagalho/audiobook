@@ -24,3 +24,6 @@ A biblioteca se conecta à API do Google Translate para acessar o serviço de co
 
 ## Fonte
 Chat GPT
+
+## Inspiração
+X: @pythonpr
