@@ -5,12 +5,13 @@ Audio Book
 
 ## Bibliotecas
 - pip instal gtts
--> O que é: gTTS(Google Text-to-Speech) - é uma biblioteca que permite converter texto em áudio utilizando  oserviço de síntese de voz do Google.
+* -> O que é: 
+* gTTS(Google Text-to-Speech) - é uma biblioteca que permite converter texto em áudio utilizando  oserviço de síntese de voz do Google.
 
-1. Conversão de texto para fala
+### 1. Conversão de texto para fala
 - Transforma qualquer texto em áudio falado, com suporte para vários idiomas
 
-2. Idiomas suportados
+### 2. Idiomas suportados
 - Suporta diversos idiomas: pt, en, es
 
 3. Saída em formato MP3
